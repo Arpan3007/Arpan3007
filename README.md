@@ -23,7 +23,7 @@
 
 ### 🛠 Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,c,cpp,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,java,c,cpp,github,vscode&perline=8" />
 </p>
 
 ---
