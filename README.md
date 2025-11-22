@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering Student | Data Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0AE6F0&width=435&lines=Passionate+about+Python+%26+MySQL;Web+Dev+%7C+Data+Science+%7C+DSA;Building+Modern+Web+Apps+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0AE6F0&width=435&lines=Passionate+about+Python+%26+MySQL;Web+Dev+%7C+Data+Science+%7C+DSA;" alt="Typing SVG" />
 </p>
 
 <p align="center">
