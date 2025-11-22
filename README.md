@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 🎓 I'm a Computer Engineering student at *Bharati Vidyapeeth College of Engineering, Pune*  
-🧠 I'm learning *Web Development, **Data Science, and sharpening my **DSA* skills  
+🧠 I'm learning *Data Science, and sharpening my **DSA* skills  
 💻 Currently working on my *Personal Portfolio Website*  
 📬 Reach me at: *arpanchourasia097@gmail.com*  
 ⚡ Fun fact: I love *Python, **MySQL, and playing **sports*!  
